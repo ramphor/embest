@@ -1,0 +1,17 @@
+{
+    "name": "ramphor/embest",
+    "description": "Best free WordPress plugin to embed video to your WordPress site",
+    "autoload": {
+        "psr-4": {
+            "Ramphor\\Embest\\": "includes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
